@@ -1,1 +1,16 @@
-
+setor,aliquota_atual,aliquota_nova,variacao
+Cesta Básica,8.0,0.0,-8.0
+Alimentos (geral),15.8,10.6,-5.200000000000001
+Medicamentos,19.5,10.6,-8.9
+Serviços de Saúde,22.0,10.6,-11.4
+Educação,17.5,10.6,-6.9
+Produtos de Higiene,23.0,10.6,-12.4
+Serviços Profissionais,18.0,18.5,0.5
+Transporte,25.0,26.5,1.5
+Comércio Geral,27.5,26.5,-1.0
+Construção Civil,30.0,26.5,-3.5
+Tecnologia,20.0,26.5,6.5
+Bares e Restaurantes,28.0,15.9,-12.1
+Hotéis e Turismo,26.0,15.9,-10.1
+Bebidas Alcoólicas,40.0,31.5,-8.5
+Bebidas Açucaradas,35.0,28.5,-6.5
