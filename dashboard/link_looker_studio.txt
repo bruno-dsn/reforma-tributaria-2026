@@ -1,5 +1,1 @@
-Dashboard em desenvolvimento.
-
-Os dados utilizados neste dashboard são os mesmos do arquivo:
-data/aliquotas_reforma_tributaria.csv
-
+https://lookerstudio.google.com/reporting/14dd6a51-b038-4386-b5e0-78c406f3504b
