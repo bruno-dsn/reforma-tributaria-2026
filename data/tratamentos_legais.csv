@@ -1,0 +1,18 @@
+id,setor,categoria,tratamento,reducao_pct,fator_aliquota,base_legal,anexo,explicacao,exige_classificacao
+padrao,Regime geral,Bens e serviços sem tratamento diferenciado,Alíquota-padrão,0,1.0,"LC 214/2025, arts. 14 e 126, § 4º",,"Aplica a alíquota-padrão definida pelos entes competentes. A alíquota nacional final não é fixada por este projeto.",Sim
+cesta_basica,Alimentação,Cesta Básica Nacional de Alimentos,Alíquota zero,100,0.0,"LC 214/2025, art. 125",Anexo I,"A alíquota zero alcança os produtos listados no Anexo I e classificados pela NCM/SH.",Sim
+profissoes,Serviços profissionais,Profissões regulamentadas listadas na lei,Redução de 30%,30,0.7,"LC 214/2025, art. 127",,"O benefício depende da profissão, do vínculo com conselho profissional e dos requisitos previstos no artigo.",Sim
+educacao,Educação,Serviços de educação listados,Redução de 60%,60,0.4,"LC 214/2025, art. 129",Anexo II,"Somente os serviços classificados no Anexo II recebem a redução.",Sim
+saude,Saúde,Serviços de saúde listados,Redução de 60%,60,0.4,"LC 214/2025, art. 130",Anexo III,"A redução vale para os serviços de saúde relacionados no Anexo III.",Sim
+dispositivos_medicos,Saúde,Dispositivos médicos listados,Redução de 60%,60,0.4,"LC 214/2025, art. 131",Anexo IV,"A lista e a regularização perante a Anvisa precisam ser verificadas.",Sim
+acessibilidade,Saúde e acessibilidade,Dispositivos de acessibilidade listados,Redução de 60%,60,0.4,"LC 214/2025, art. 132",Anexo V,"A aplicação depende da lista e dos requisitos do órgão competente.",Sim
+medicamentos,Saúde,Medicamentos registrados ou manipulados,Redução de 60%,60,0.4,"LC 214/2025, art. 133",,"Há exceções com alíquota zero e condições específicas previstas na lei.",Sim
+alimentos_reduzidos,Alimentação,Alimentos destinados ao consumo humano listados,Redução de 60%,60,0.4,"LC 214/2025, art. 135",Anexo VII,"A categoria não equivale a todo o grupo Alimentação do IPCA. É necessário conferir a classificação do produto.",Sim
+higiene_limpeza,Consumo essencial,Produtos de higiene pessoal e limpeza listados,Redução de 60%,60,0.4,"LC 214/2025, art. 136",Anexo VIII,"A redução alcança somente os produtos relacionados no anexo.",Sim
+agro_in_natura,Agro,Produtos agropecuários e extrativistas in natura,Redução de 60%,60,0.4,"LC 214/2025, art. 137",,"O artigo define os limites do conceito de produto in natura.",Sim
+cultura_eventos,Cultura e eventos,Produções nacionais artísticas e culturais listadas,Redução de 60%,60,0.4,"LC 214/2025, art. 139",Anexo X,"A redução depende do tipo de produção e dos requisitos de nacionalidade previstos na lei.",Sim
+desporto,Esporte,Atividades desportivas previstas,Redução de 60%,60,0.4,"LC 214/2025, art. 141",,"A lei delimita os serviços e operações abrangidos.",Sim
+cyber,Segurança,Segurança da informação e segurança cibernética em hipóteses previstas,Redução de 60%,60,0.4,"LC 214/2025, art. 142",Anexo XI,"A redução depende do destinatário, da atividade, da classificação e dos requisitos societários previstos.",Sim
+medicamentos_zero,Saúde,Medicamentos listados para alíquota zero,Alíquota zero,100,0.0,"LC 214/2025, art. 146",Anexo XIV,"Não são todos os medicamentos. É indispensável conferir o Anexo XIV e as condições do artigo.",Sim
+saude_menstrual,Saúde,Produtos básicos de saúde menstrual previstos,Alíquota zero,100,0.0,"LC 214/2025, art. 147",,"O artigo lista os produtos e exige atendimento às regras da Anvisa.",Sim
+horticolas_frutas_ovos,Alimentação,Produtos hortícolas frutas e ovos listados,Alíquota zero,100,0.0,"LC 214/2025, art. 148",Anexo XV,"A alíquota zero depende da lista e da classificação NCM/SH.",Sim

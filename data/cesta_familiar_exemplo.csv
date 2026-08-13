@@ -1,0 +1,7 @@
+categoria_legal,valor_base_mensal,reducao_pct,observacao
+Cesta Básica Nacional de Alimentos,700.00,100,"Exemplo hipotético; a lista real depende do Anexo I"
+Alimentos com redução de 60%,350.00,60,"Exemplo hipotético; conferir o Anexo VII"
+Serviços de educação listados,450.00,60,"Exemplo hipotético; conferir o Anexo II"
+Serviços de saúde listados,500.00,60,"Exemplo hipotético; conferir o Anexo III"
+Medicamentos registrados ou manipulados,180.00,60,"Exemplo hipotético; alguns itens podem ter alíquota zero"
+Produtos com alíquota-padrão,1820.00,0,"Exemplo hipotético de itens sem tratamento diferenciado"

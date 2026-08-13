@@ -1,0 +1,9 @@
+ano,fase,cbs,ibs,icms_iss,percentual_ibs_referencia,percentual_icms_iss,base_legal,leitura_simples
+2026,Ano-teste,"0,9%","0,1%","Permanecem; valores de teste podem ser compensados",,,"EC 132/2023, ADCT, art. 125","Começa o teste nacional da CBS e do IBS. Não é a alíquota final do novo sistema."
+2027,Início da CBS,"Alíquota de referência, com redução de 0,1 ponto percentual","0,1%","Permanecem; PIS e Cofins são extintos",,,"EC 132/2023, ADCT, art. 126 e Receita Federal","A CBS entra em operação. O IBS continua em escala de teste."
+2028,Continuidade,"Alíquota de referência, com redução de 0,1 ponto percentual","0,1%","Permanecem",,,"EC 132/2023, ADCT, art. 127 e Receita Federal","Mantém-se a fase iniciada em 2027."
+2029,Transição estadual e municipal,Vigente,"10% da alíquota de referência","90% das alíquotas vigentes",10,90,"EC 132/2023, ADCT, art. 128","O IBS começa a substituir gradualmente ICMS e ISS."
+2030,Transição estadual e municipal,Vigente,"20% da alíquota de referência","80% das alíquotas vigentes",20,80,"EC 132/2023, ADCT, art. 128","A participação do IBS avança para dois décimos da referência."
+2031,Transição estadual e municipal,Vigente,"30% da alíquota de referência","70% das alíquotas vigentes",30,70,"EC 132/2023, ADCT, art. 128","A substituição continua de forma gradual."
+2032,Transição estadual e municipal,Vigente,"40% da alíquota de referência","60% das alíquotas vigentes",40,60,"EC 132/2023, ADCT, art. 128","Último ano da transição parcial."
+2033,Novo sistema completo,Vigente,"100% da alíquota aplicável","ICMS e ISS extintos",100,0,"EC 132/2023, ADCT, art. 129","IBS e CBS passam a operar integralmente no novo modelo."
