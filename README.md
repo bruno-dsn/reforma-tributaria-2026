@@ -1,3 +1,5 @@
+[![Python checks](https://github.com/bruno-dsn/reforma-tributaria-2026/actions/workflows/tests.yml/badge.svg)](https://github.com/bruno-dsn/reforma-tributaria-2026/actions/workflows/tests.yml)
+
 # Observatório da Reforma Tributária do Consumo
 
 ![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -221,3 +223,8 @@ machine learning e construção de produtos orientados a dados.
 ## Licença
 
 Distribuído sob a licença MIT. Consulte [LICENSE](LICENSE).
+
+
+## Verificação automatizada
+
+O workflow [Python checks](.github/workflows/tests.yml) instala as dependências de desenvolvimento e executa a suíte de testes em Python 3.12 a cada push ou pull request. O badge acima mostra o resultado real da execução, sem um número fixo de testes.
