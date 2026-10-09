@@ -1,20 +1,20 @@
-[![Python checks](https://github.com/bruno-dsn/reforma-tributaria-2026/actions/workflows/tests.yml/badge.svg)](https://github.com/bruno-dsn/reforma-tributaria-2026/actions/workflows/tests.yml)
+# Observatório da Reforma Tributária
 
-# Observatório da Reforma Tributária do Consumo
+![Observatório da Reforma Tributária](assets/portfolio-cover.svg)
 
-![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-aplicação-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-dados-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Altair](https://img.shields.io/badge/Altair-visualização-1F77B4?style=for-the-badge)
-![Pytest](https://img.shields.io/badge/pytest-testes-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![License](https://img.shields.io/badge/licença-MIT-0F766E?style=for-the-badge)
+Consulte a transição da Reforma Tributária do Consumo, encontre as referências legais e experimente contas educacionais. O painel distingue legislação, dados do IPCA e hipóteses de simulação.
 
-Aplicação interativa para traduzir a Reforma Tributária do Consumo em uma
-experiência clara, rastreável e útil. O painel combina legislação oficial,
-dados reais do IBGE e simulações ajustáveis sem apresentar hipótese como
-resultado definitivo.
+[Como executar](#como-executar-com-python-314) · [Dados e método](docs/fontes_e_metodo.md) · [Testes](tests/) · [Histórico](https://github.com/bruno-dsn/reforma-tributaria-2026/commits/main)
 
-![Visão do projeto](assets/preview.png)
+[![Verificações Python](https://github.com/bruno-dsn/reforma-tributaria-2026/actions/workflows/tests.yml/badge.svg)](https://github.com/bruno-dsn/reforma-tributaria-2026/actions/workflows/tests.yml) · [Licença MIT](LICENSE)
+
+## Veja a aplicação
+
+![Captura real da interface revisada](assets/interface-desktop.png)
+
+Captura da aplicação executada localmente com os dados de demonstração. A fonte dos dados, os filtros e as hipóteses permanecem visíveis no painel.
+
+**Primeira exploração:** Explore a transição; confira artigo e anexo; ajuste a cesta familiar e observe os limites da conta.
 
 ## O problema
 
